@@ -1,0 +1,25 @@
+body{
+    
+    background-image: url(image/wanita02.jpg);
+}
+.wrap{
+    width: 80%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    background-color: rgb(49, 34, 34);
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin: 5px;
+}
+button{
+    width: 50px;
+    font-family: sans-serif;
+    height: 30px;
+    background-color: white;
+    border-radius: 7px;
+}
